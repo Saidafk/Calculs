@@ -19,7 +19,7 @@ namespace Calculs
             string choix; // saisie du choix de l'utilsiateur
             bool correct; // mémorise si la saisie est un entier
 
-            // boucle sur le menu
+            // boucle sur le men
             choix = "1";
             while (choix != "0")
             {
